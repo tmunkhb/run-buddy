@@ -12,3 +12,5 @@ https://tmunkhb.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Temuulen Munkhbat
+
+### ©️2019 Run Buddy, Inc 
